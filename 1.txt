@@ -1,0 +1,135 @@
+/home/cc/Project1/model_BASEHOCK.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.142000 us
+correct is true
+time_dense is 1.286600 us
+correct is true
+/home/cc/Project1/model_Higgs.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 1.602600 us
+correct is true
+time_dense is 169.746796 us
+correct is true
+/home/cc/Project1/model_SUSY.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 1.249600 us
+correct is true
+time_dense is 99.069801 us
+correct is true
+/home/cc/Project1/model_SVHN.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.772600 us
+correct is true
+time_dense is 27.355400 us
+correct is true
+/home/cc/Project1/model_allstate.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.383600 us
+correct is true
+time_dense is 22.311201 us
+correct is true
+/home/cc/Project1/model_cifar10.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.126000 us
+correct is true
+time_dense is 1.118800 us
+correct is true
+/home/cc/Project1/model_covtype.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.157400 us
+correct is true
+time_dense is 8.665000 us
+correct is true
+/home/cc/Project1/model_cup98.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.115600 us
+correct is true
+time_dense is 7.737200 us
+correct is true
+/home/cc/Project1/model_gisette.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.215800 us
+correct is true
+time_dense is 1.844200 us
+correct is true
+/home/cc/Project1/model_year.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.096800 us
+correct is true
+time_dense is 5.909800 us
+correct is true
+model/final_model1_2000_10.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.368200 us
+correct is true
+time_dense is 37.058800 us
+correct is true
+/home/cc/Project1/model_ijcnn1.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.078800 us
+correct is true
+time_dense is 0.363600 us
+correct is true
+/home/cc/Project1/model_phishing.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.081800 us
+correct is true
+time_dense is 0.549400 us
+correct is true
+/home/cc/Project1/model_aloi.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.814200 us
+correct is true
+time_dense is 62.986000 us
+correct is true
+/home/cc/Project1/model_letter.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.074800 us
+correct is true
+time_dense is 3.269800 us
+correct is true

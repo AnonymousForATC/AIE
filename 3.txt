@@ -1,0 +1,115 @@
+/home/cc/Project1/model_BASEHOCK.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.140200 us
+correct is true
+time_dense is 0.380000 us
+correct is true
+/home/cc/Project1/model_Higgs.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 1.606600 us
+correct is true
+/home/cc/Project1/model_SUSY.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 1.239400 us
+correct is true
+/home/cc/Project1/model_SVHN.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.773600 us
+correct is true
+/home/cc/Project1/model_allstate.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.377400 us
+correct is true
+/home/cc/Project1/model_cifar10.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.125600 us
+correct is true
+time_dense is 0.490600 us
+correct is true
+/home/cc/Project1/model_covtype.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.154200 us
+correct is true
+/home/cc/Project1/model_cup98.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.116000 us
+correct is true
+/home/cc/Project1/model_gisette.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.214600 us
+correct is true
+/home/cc/Project1/model_year.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.096400 us
+correct is true
+model/final_model1_2000_10.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.362800 us
+correct is true
+/home/cc/Project1/model_ijcnn1.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.080400 us
+correct is true
+time_dense is 0.255800 us
+correct is true
+/home/cc/Project1/model_phishing.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.081600 us
+correct is true
+time_dense is 0.480600 us
+correct is true
+/home/cc/Project1/model_aloi.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.819000 us
+correct is true
+/home/cc/Project1/model_letter.txt
+Load forest
+Load data
+On CPU
+On GPU
+time_dense is 0.075200 us
+correct is true
+time_dense is 2.605000 us
+correct is true
