@@ -7,7 +7,7 @@
 #include <iterator>
 #include <algorithm>
 #include <cassert>
-#include "Struct.h"
+#include "interface.h"
 #include <sys/time.h>
 
 void printf_dense_node(std::vector<dense_node_t> nodes)
